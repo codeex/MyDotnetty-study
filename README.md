@@ -1,0 +1,2 @@
+# MyDotnetty-study
+study dotnetty
